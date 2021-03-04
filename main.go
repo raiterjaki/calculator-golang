@@ -2,7 +2,7 @@
   This project has been made with less effort with help of math lib.
   Do not attempt to judge me for publishing something simple like this on github. I know that it is simple. (I will just block you)
   Console input is missing because there are some of the functions that do not require it. (If you want it you can do it by yourself it isn't something hard)
-  I highly estimate that I will update this calculator and add more futures to this anytime in the future.
+  I highly estimate that I will update this calculator and add more features to this anytime in the future.
   github.com/raiterjaki
   raiterjaki#0796
   */
