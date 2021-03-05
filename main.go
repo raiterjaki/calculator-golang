@@ -62,5 +62,5 @@ func main() {
     fmt.Println("Perimeter of rectangle with height: 5 length: 7 is ", findRecPerimeter(rectangle{5, 7}))
     fmt.Println("Area of rectangle with height: 5 length: 7 is ", findRecArea(rectangle{5, 7}))
     fmt.Println("Perimeter of triange with a: 3, b: 3, c: 5 is ", findIsTrPerimeter(isosceles_triangle{3, 3, 5, 0})) // 0 = height
-    fmt.Println("Area of a triangle with a: 5, b: 5, c: 7 is ", findIsTrArea(isosceles_triangle{0, 0, 7, 4})) //base 7, height 4
+  fmt.Println("Area of a triangle with a: 5, b: 5, c (base): 7, height: 4 is ", findIsTrArea(isosceles_triangle{0, 0, 7, 4})) //base 7, height 4
 }
